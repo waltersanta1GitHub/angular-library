@@ -4,7 +4,7 @@ import { Component, OnInit } from '@angular/core';
   selector: 'nw-magic-string',
   template: `
     <p>
-      magic-string works!
+      magic-string works Very WELLWOOWWW!
     </p>
   `,
   styles: []
